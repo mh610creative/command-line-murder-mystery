@@ -1,0 +1,393 @@
+CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+Annabel Sun	F	26	Hart Place, line 40
+Annabel Church	F	38	Buckingham Place, line 179
+Annabel Sun SEE INTERVIEW #47246024
+Annabel Church SEE INTERVIEW #699607
+Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
+
+However, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with L337 and ends with 9
+Vehicle License Plate Suspects are Aron Pilhofer, Joe Germuska, Jeremy Bowers
+Aron Pilhofer is not on AAA list. Joe Germuska is not on Museum of Bash History or Delta SkyMiles lists. Jeremy Bowers is on all 4 lists. Matches description. JEREMY BOWERS IS FINAL SUSPECT.
+HISTORY 
+36  cd Desktop
+   37  mkdir general_assembly
+   38  cd general_assembly
+   39  mkdir unit_1
+   40  cd unit_1
+   41  mkdir homeworks
+   42  cd homeworks
+   43  git pull "https://github.com/mh610creative/command-line-murder-mystery.git"
+   44  git clone "https://github.com/mh610creative/command-line-murder-mystery.git"
+   45  ls
+   46  cd command-line-murder-mystery
+   47  pwd
+   48  ls
+   49  mkdir solutions.txt
+   50  ls
+   51  cd mystery
+   52  ls
+   53  cd .
+   54  cd ..
+   55  cat instructions
+   56  ls
+   57  nano cheatsheet.md
+   58  cd Desktop/general_assembly/unit_1/homeworks
+   59  ls
+   60  cd command-line-murder-mystery
+   61  ls
+   62  cd mystery
+   63  ls
+   64  open crimescene
+   65  cd ..
+   66  ls
+   67  code instructions
+   68  ls
+   69  cd Desktop/general_assembly/unit_1/homeworks
+   70  git clone Last login: Mon Jan 11 14:48:23 on ttys001\n[oh-my-zsh] Insecure completion-dependent directories detected:\ndrwxrwxr-x  3 jackiedaytona  admin   96 Jan  7 08:34 /usr/local/share/zsh\ndrwxrwxr-x  6 jackiedaytona  admin  192 Jan 11 12:03 /usr/local/share/zsh/site-functions\n\n[oh-my-zsh] For safety, we will not load completions from these directories until\n[oh-my-zsh] you fix their permissions and ownership and restart zsh.\n[oh-my-zsh] See the above list for directories with group or other writability.\n\n[oh-my-zsh] To fix your permissions you can do so by disabling\n[oh-my-zsh] the write permission of "group" and "others" and making sure that the\n[oh-my-zsh] owner of these directories is either root or your current user.\n[oh-my-zsh] The following command may help:\n[oh-my-zsh]     compaudit | xargs chmod g-w,o-w\n\n[oh-my-zsh] If the above didn't help or you want to skip the verification of\n[oh-my-zsh] insecure directories you can set the variable ZSH_DISABLE_COMPFIX to\n[oh-my-zsh] "true" before oh-my-zsh is sourced in your zshrc file.\n\n➜  ~ git clone Last login: Mon Jan 11 14:48:23 on ttys001\n[oh-my-zsh] Insecure completion-dependent directories detected:\ndrwxrwxr-x  3 jackiedaytona  admin   96 Jan  7 08:34 /usr/local/share/zsh\ndrwxrwxr-x  6 jackiedaytona  admin  192 Jan 11 12:03 /usr/local/share/zsh/site-functions\n\n[oh-my-zsh] For safety, we will not load completions from these directories until\n[oh-my-zsh] you fix their permissions and ownership and restart zsh.\n[oh-my-zsh] See the above list for directories with group or other writability.\n\n[oh-my-zsh] To fix your permissions you can do so by disabling\n[oh-my-zsh] the write permission of "group" and "others" and making sure that the\n[oh-my-zsh] owner of these directories is either root or your current user.\n[oh-my-zsh] The following command may help:\n[oh-my-zsh]     compaudit | xargs chmod g-w,o-w\n\n[oh-my-zsh] If the above didn't help or you want to skip the verification of\n[oh-my-zsh] insecure directories you can set the variable ZSH_DISABLE_COMPFIX to\n[oh-my-zsh] "true" before oh-my-zsh is sourced in your zshrc file.\n\n➜  ~ git clone https://github.com/mh610creative/command-line-murder-mystery.git
+   71  git clone "https://github.com/mh610creative/command-line-murder-mystery.git"
+   72  cd command-line-murder-mystery
+   73  git status
+   74  ls
+   75  cat README.md
+   76  touch solution.txt
+   77  ls
+   78  cat instructions
+   79  ls
+   80  cd mystery
+   81  ls
+   82  cat crimescene
+   83  cat "CLUE" crimescene
+   84  grep "CLUE" crimescene
+   85  echo "Perp is a tall male, at least 6'" solution.txt
+   86  echo "Perp is a tall male, at least 6'" > solution.txt
+   87  ls
+   88  cat solution.txt
+   89  rm -R solution.txt
+   90  ls
+   91  echo "Perp is a tall male, at least 6'" >> solution.txt
+   92  ls
+   93  rm -R solution.txt
+   94  history
+   95  ls
+   96  cd .
+   97  ls
+   98  cd ..
+   99  ls
+  100  echo "Perp is a tall male, at least 6'" >> solution.txt
+  101  cd mystery
+  102  ls
+  103  grep "CLUE" crimescene
+  104  cd ..
+  105  echo "CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.\nCLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent." > solution.txt
+  106  ls
+  107  cat solution.txt
+  108  cd mystery
+  109  grep "CLUE" crimescene
+  110  cd ..
+  111  echo "CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.\nCLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.\nCLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent." > solution.txt
+  112  cat solution.txt
+  113  cd mystery
+  114  ls
+  115  cd interview
+  116  cat interviews
+  117  cd interviews
+  118  ls
+  119  grep "Annabel" interviews
+  120  cd ..
+  121  grep "Annabel" interviews
+  122  ls
+  123  cat people
+  124  grep "Annabel" people
+  125  ls
+  126  grep "CLUE" crimescene
+  127  cd interviews
+  128  grep "barista"
+  129  grep "Annabel" interviews
+  130  grep "Annabel"
+  131  grep "Annabel" people
+  132  cd people
+  133  cd ..
+  134  grep "Annabel" people
+  135  cd ..
+  136  echo "Annabel Sun\tF\t26\tHart Place, line 40\nOluwasegun Annabel\tM\t37\tMattapan Street, line 173\nAnnabel Church\tF\t38\tBuckingham Place, line 179\nAnnabel Fuglsang\tM\t40\tHaley Street, line 176" >> solution.txt
+  137  cat solution.txt
+  138  cd mystery
+  139  ls
+  140  cd streets
+  141  ls
+  142  grep "Annabel" Hart_Place
+  143  cat Hart_Place
+  144  cat Hart_Place 40
+  145  cat -40 Hart_Place
+  146  cat Hart_Place -40
+  147  cat -s 40 Hart_Place
+  148  grep -n 40 Hart_Place
+  149  grep -n HArt_Place 40
+  150  head -41 Hart_Place | tail -1
+  151  grep -n Hart_Place 40
+  152  grep -40 Hart_Place
+  153  cat -n 40 Hart_Place
+  154  cat -n Hart_Place 40
+  155  cat Hart_Place line 40
+  156  cat line 40 Hart_Place
+  157  head Hart_Place
+  158  head -n 41 Hart_Place
+  159  head -n 40 Hart_Place
+  160  cd ..
+  161  ls
+  162  cd ..
+  163  pwd
+  164  ls
+  165  cat solution.txt
+  166  echo "Annabel Sun SEE INTERVIEW #47246024" >> solution.txt
+  167  cat solution.txt
+  168  cd mystery/streets
+  169  head -179 Buckingham_Place
+  170  cd ..
+  171  ls
+  172  cd ..
+  173  ls
+  174  cat solution.txt
+  175  echo "Annabel Church SEE INTERVIEW #699607" >> solution.txt
+  176  cd mystery/streets
+  177  head -176 Haley_Street
+  178  cd ..
+  179  ls
+  180  cd .
+  181  cd ..
+  182  ls
+  183  cat solution.txt
+  184  echo "Annabel Fuglsang SEE INTERVIEW #871877" >> solution.txt
+  185  cat solution.txt
+  186  cd mystery/interviews
+  187  ls
+  188  cat interview-47246024
+  189  cat interview-699607
+  190  cat interview-871877
+  191  cd ..
+  192  cd .
+  193  cd ..
+  194  ls
+  195  echo "Annabel Church is witness. Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.\n\nHowever, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9" >> solution.txt\n
+  196  ls
+  197  cat solution. txt
+  198  cat solution.txt
+  199  echo "Annabel Church is witness. Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.\nHowever, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with L337 and ends with a 9" >> solution.txt\n
+  200  cat solution.txt
+  201  cd mystery
+  202  ls
+  203  cat vehicles
+  204  grep "License Plate L337" vehicles
+  205  grep "License Plate L337" vehicles -A 6
+  206  history
+  207  cd ..
+  208  echo "71  git clone "https://github.com/mh610creative/command-line-murder-mystery.git"\n   72  cd command-line-murder-mystery\n   73  git status\n   74  ls\n   75  cat README.md\n   76  touch solution.txt\n   77  ls\n   78  cat instructions\n   79  ls\n   80  cd mystery\n   81  ls\n   82  cat crimescene\n   83  cat "CLUE" crimescene\n   84  grep "CLUE" crimescene\n   85  echo "Perp is a tall male, at least 6'" solution.txt\n   86  echo "Perp is a tall male, at least 6'" > solution.txt\n   87  ls\n   88  cat solution.txt\n   89  rm -R solution.txt\n   90  ls\n   91  echo "Perp is a tall male, at least 6'" >> solution.txt\n   92  ls\n   93  rm -R solution.txt\n   94  history\n   95  ls\n   96  cd .\n   97  ls\n   98  cd ..\n   99  ls\n  100  echo "Perp is a tall male, at least 6'" >> solution.txt\n  101  cd mystery\n  102  ls\n  103  grep "CLUE" crimescene\n  104  cd ..\n  105  echo "CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.\nCLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent." > solution.txt\n  106  ls\n  107  cat solution.txt\n  108  cd mystery\n  109  grep "CLUE" crimescene\n  110  cd ..\n  111  echo "CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.\nCLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.\nCLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent." > solution.txt\n  112  cat solution.txt\n  113  cd mystery\n  114  ls\n  115  cd interview\n  116  cat interviews\n  117  cd interviews\n  118  ls\n  119  grep "Annabel" interviews\n  120  cd ..\n  121  grep "Annabel" interviews\n  122  ls\n  123  cat people\n  124  grep "Annabel" people\n  125  ls\n  126  grep "CLUE" crimescene\n  127  cd interviews\n  128  grep "barista"\n  129  grep "Annabel" interviews\n  130  grep "Annabel"\n  131  grep "Annabel" people\n  132  cd people\n  133  cd ..\n  134  grep "Annabel" people\n  135  cd ..\n  136  echo "Annabel Sun\tF\t26\tHart Place, line 40\nOluwasegun Annabel\tM\t37\tMattapan Street, line 173\nAnnabel Church\tF\t38\tBuckingham Place, line 179\nAnnabel Fuglsang\tM\t40\tHaley Street, line 176" >> solution.txt\n  137  cat solution.txt\n  138  cd mystery\n  139  ls\n  140  cd streets\n  141  ls\n  142  grep "Annabel" Hart_Place\n  143  cat Hart_Place\n  144  cat Hart_Place 40\n  145  cat -40 Hart_Place\n  146  cat Hart_Place -40\n  147  cat -s 40 Hart_Place\n  148  grep -n 40 Hart_Place\n  149  grep -n HArt_Place 40\n  150  head -41 Hart_Place | tail -1\n  151  grep -n Hart_Place 40\n  152  grep -40 Hart_Place\n  153  cat -n 40 Hart_Place\n  154  cat -n Hart_Place 40\n  155  cat Hart_Place line 40\n  156  cat line 40 Hart_Place\n  157  head Hart_Place\n  158  head -n 41 Hart_Place\n  159  head -n 40 Hart_Place\n  160  cd ..\n  161  ls\n  162  cd ..\n  163  pwd\n  164  ls\n  165  cat solution.txt\n  166  echo "Annabel Sun SEE INTERVIEW #47246024" >> solution.txt\n  167  cat solution.txt\n  168  cd mystery/streets\n  169  head -179 Buckingham_Place\n  170  cd ..\n  171  ls\n  172  cd ..\n  173  ls\n  174  cat solution.txt\n  175  echo "Annabel Church SEE INTERVIEW #699607" >> solution.txt\n  176  cd mystery/streets\n  177  head -176 Haley_Street\n  178  cd ..\n  179  ls\n  180  cd .\n  181  cd ..\n  182  ls\n  183  cat solution.txt\n  184  echo "Annabel Fuglsang SEE INTERVIEW #871877" >> solution.txt\n  185  cat solution.txt\n  186  cd mystery/interviews\n  187  ls\n  188  cat interview-47246024\n  189  cat interview-699607\n  190  cat interview-871877\n  191  cd ..\n  192  cd .\n  193  cd ..\n  194  ls\n  195  echo "Annabel Church is witness. Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.\n\nHowever, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9" >> solution.txt\n\n  196  ls\n  197  cat solution. txt\n  198  cat solution.txt\n  199  echo "Annabel Church is witness. Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.\nHowever, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with L337 and ends with a 9" >> solution.txt\n\n  200  cat solution.txt\n  201  cd mystery\n  202  ls\n  203  cat vehicles\n  204  grep "License Plate L337" vehicles\n  205  grep "License Plate L337" vehicles -A 6" >> solution.txt\nopen solution.txt
+  209  open solution.txt
+  210  cd mystery
+  211  ls
+  212  grep "License Plate L337" vehicles -A 6
+  213  cd ..
+  214  ls
+  215  cd mystery
+  216  ls
+  217  cd memberships
+  218  ls
+  219  grep "Aron Pilhofer" Delta_SkyMiles 
+  220  grep "Aron Pilhofer" Museum_of_Bash_History
+  221  grep "Aron Pilhofer" AAA
+  222  grep "Aron Pilhofer" library.txt
+  223  grep "Joe Germuska" AAA
+  224  grep "Joe Germuska" Delta_SkyMiles
+  225  grep "Joe Germuska" Museum_of_Bash_History
+  226  ls
+  227  grep "Joe Germuska" library.txt
+  228  grep "Jeremy Bowers" AAA | grep "Jeremy Bowers" Delta_SkyMiles
+  229  grep "Jeremy Bowers" AAA
+  230  grep "Jeremy Bowers" Delta_SkyMiles
+  231  grep "Jeremy Bowers" library.txt
+  232  grep "Jeremy Bowers" Museum_of_Bash_History
+  233  history
+  234  cd ..
+  235  ls
+  236  cd ..
+  237  ls
+  238  cat solution.txt
+  239  history
+  240  echo "  209  open solution.txt\n  210  cd mystery\n  211  ls\n  212  grep "License Plate L337" vehicles -A 6\n  213  cd ..\n  214  ls\n  215  cd mystery\n  216  ls\n  217  cd memberships\n  218  ls\n  219  grep "Aron Pilhofer" Delta_SkyMiles\n  220  grep "Aron Pilhofer" Museum_of_Bash_History\n  221  grep "Aron Pilhofer" AAA\n  222  grep "Aron Pilhofer" library.txt\n  223  grep "Joe Germuska" AAA\n  224  grep "Joe Germuska" Delta_SkyMiles\n  225  grep "Joe Germuska" Museum_of_Bash_History\n  226  ls\n  227  grep "Joe Germuska" library.txt\n  228  grep "Jeremy Bowers" AAA | grep "Jeremy Bowers" Delta_SkyMiles\n  229  grep "Jeremy Bowers" AAA\n  230  grep "Jeremy Bowers" Delta_SkyMiles\n  231  grep "Jeremy Bowers" library.txt\n  232  grep "Jeremy Bowers" Museum_of_Bash_History\n  233  history\n  234  cd ..\n  235  ls\n  236  cd ..\n  237  ls\n  238  cat solution.txt" >> solution.txt
+  241  cat solution.txt
+  242  echo "Car Suspects based on Annabel Church's License Plate were Aron Pilhofer, Joe Germuska, Jeremy Bowers. Bowers was only suspect with all 4 memberships according to list files. Aron Pilhofer was not on AAA and Joe Germuska was not found on Museum of Bash History and Delta Skymiles lists."
+  243  echo "Car Suspects based on Annabel Church's License Plate were Aron Pilhofer, Joe Germuska, Jeremy Bowers. Bowers was only suspect with all 4 memberships according to list files. Aron Pilhofer was not on AAA and Joe Germuska was not found on Museum of Bash History and Delta Skymiles lists." >> solutions.txt
+  244  cat solution.txt
+  245  ls
+  246  rm -r solutions.txt
+  247  echo "Car Suspects based on Annabel Church's License Plate were Aron Pilhofer, Joe Germuska, Jeremy Bowers. Bowers was only suspect with all 4 memberships according to list files. Aron Pilhofer was not on AAA and Joe Germuska was not found on Museum of Bash History and Delta Skymiles lists." >> solution.txt
+  248  cat solution.txt
+  249  ls -l
+  250  ls
+  251  ls -la
+  252  cd Downloads
+  253  ls
+  254  cd Pictures
+  255  cd /Pictures
+  256  cd .
+  257  cd ..
+  258  cd general_assembly
+  259  cd Desktop
+  260  cd general_assembly
+  261  ls
+  262  cd unit_1/homeworks
+  263  ls -a
+  264  ls -la
+  265  cd command-line-murder-mystery
+  266  ls -la
+  267  atom solution.txt
+  268  subl solution.txt
+  269  code solution.txt
+  270  cd ...
+  271  mkdir code_alongs
+  272  la -la
+  273  cd code_alongs
+  274  touch commandlinelesson.txt
+  275  code commandlinelesson.txt
+  276  cat commandlinelesson.txt
+  277  echo "Carroll, Lewis:Through the Looking-Glass\nShakespeare, William:Hamlet\nBartlett, John:Familiar Quotations\nMill, John :On Nature\nLondon, Jack:John Barleycorn\nBunyan, John:Pilgrim's Progress, The\nDefoe, Daniel:Robinson Crusoe\nMill, John Stuart:System of Logic, A\nMilton, John:Paradise Lost\nJohnson, Samuel:Lives of the Poets\nShakespeare, William:Julius Caesar\nMill, John Stuart:On Liberty\nBunyan, John:Saved by Grace" > commandlinelesson.txt
+  278  cat commandlinelesson.txt
+  279  code commandlinelesson.txt
+  280  cat commandlinelesson.txt | sort
+  281  cat commandlinelesson.txt | sort > commandlinelesson.txt
+  282  cat commandlinelesson.txt
+  283  ls
+  284  cat commandlinelesson.txt
+  285  echo "Bartlett, John:Familiar Quotations\nBunyan, John:Pilgrim's Progress, The\nBunyan, John:Saved by Grace\nCarroll, Lewis:Through the Looking-Glass\nDefoe, Daniel:Robinson Crusoe\nJohnson, Samuel:Lives of the Poets\nLondon, Jack:John Barleycorn\nMill, John :On Nature\nMill, John Stuart:On Liberty\nMill, John Stuart:System of Logic, A\nMilton, John:Paradise Lost\nShakespeare, William:Hamlet\nShakespeare, William:Julius Caesar" | sort > commandlinelesson.txt
+  286  cat commandlinelesson.txt
+  287  cat commandlinelesson.txt | grep Mil
+  288  man grep
+  289  ls
+  290  cat commandlinelesson.txt -ls
+  291  cat commandlinelesson.txt -la
+  292  cat -ls commandlinelesson.txt
+  293  cat commandlinelesson.txt
+  294  cat commandlinelesson.txt -l
+  295  man grep
+  296  grep Johnson commandlinelesson.txt -A 3 -B 3
+  297  grep -n commandlinelesson.txt
+  298  cat commandlinelesson.txt -n
+  299  grep Milton commandlinelesson.txt -n
+  300  cat -n commandlinelesson.txt
+  301  env
+  302  cd ..
+  303  cd homeworks
+  304  cd command-line-murder-mystery
+  305  ls
+  306  touch solution2.txt
+  307  ls
+  308  ls -l
+  309  ls -la
+  310  cd mystery
+  311  ls -la
+  312  cat instructions
+  313  cat /instructions
+  314  cat /command-line-murder-mystery/instructions
+  315  cd ..
+  316  cat instructions
+  317  ls
+  318  cd mystery 
+  319  ls -la
+  320  grep CLUE crimescene
+  321  cd ..
+  322  echo "CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.\nCLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.\nCLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent." > solution2.txt
+  323  cat solution2.txt
+  324  cd mystery 
+  325  ls -la
+  326  grep "Annabel" people
+  327  grep "Annabel" people | grep "F" people
+  328  grep "Annabel F" people
+  329  grep "Annabel" people
+  330  cd ..
+  331  ls
+  332  echo "Annabel Sun\tF\t26\tHart Place, line 40\nAnnabel Church\tF\t38\tBuckingham Place, line 179" >> solution2.txt
+  333  cat solution2.txt
+  334  cd mystery
+  335  ls -la
+  336  cd streets
+  337  ls -la streets
+  338  ls streets -la
+  339  ls -a
+  340  grep -n Hart_Place
+  341  grep Annabel Hart_Place
+  342  grep "Annabel" Hart_Place
+  343  head Hart_Place 40
+  344  head -40 Hart_Place
+  345  cd /
+  346  pwd
+  347  ls
+  348  cd jackiedaytona
+  349  cd Users/jackiedaytona
+  350  pwd
+  351  ls
+  352  cd Desktop/general_assembly/homeworks
+  353  cd Desktop/general_assembly
+  354  ls
+  355  cd unit_1/homeworks/command-line-murder-mystery
+  356  ls
+  357  echo "Annabel Sun SEE INTERVIEW #47246024" >> solution2.txt
+  358  cd mystery
+  359  ls -a mystery
+  360  ls mystery
+  361  ls -a
+  362  ls -la
+  363  cd streets
+  364  head -180 Buckingham_Place
+  365  cd ..
+  366  echo "Annabel Church SEE INTERVIEW #699607" >> solution2.txt
+  367  cat solution2.txt
+  368  cd mystery/interviews
+  369  ls -la
+  370  cat interview-47246024 | cat interview-699607
+  371  cat interview-699607
+  372  cat interview-47246024
+  373  cd ..
+  374  echo "Interviewed Ms. Church at 2:04 pm.  Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.\n\nHowever, she reports seeing the car that fled the scene.  Describes it as a blue Honda, with a license plate that starts with L337 and ends with 9" >> solution2.txt
+  375  cd mystery
+  376  ls
+  377  cat vehicles
+  378  grep "License Plate L337" vehicles -A 5
+  379  grep "License Plate L337 Make: Honda Color: Blue" vehicles
+  380  grep "Make: Honda Color: Blue" vehicles -A 3
+  381  ls -la
+  382  grep "Make: Honda" vehicles -A 3
+  383  grep "License Plate L337" vehicles -A 5
+  384  cd ..
+  385  ls
+  386  echo "Vehicle License Plate Suspects are Aron Pilhofer, Joe Germuska, Jeremy Bowers" >> solution2.txt
+  387  cat solution2.txt
+  388  cd mystery
+  389  ls -la
+  390  cd memberships
+  391  ls
+  392  ls -la
+  393  grep "Aron Pilhofer" AAA | grep "Aron Pilhofer" Delta_SkyMiles | grep "Aron Pilhofer" Museum_of_Bash_History | grep "Aron Pilhofer" library.txt
+  394  grep "Aron Pilhofer"
+  395  grep "Aron Pilhofer" AAA
+  396  grep "Aron Pilhofer" Delta_SkyMiles
+  397  grep "Aron Pilhofer" Museum_of_Bash_History
+  398  grep "Aron Pilhofer" library.txt
+  399  cat AAA | grep "Aron Pilhofer" 
+  400  cat Delta_SkyMiles | grep "Aron Pilhofer"
+  401  cat Museum_of_Bash_History | grep "Aron Pilhofer"
+  402  cat Delta_SkyMiles | grep "Aron Pilhofer"
+  403  cat AAA | grep "Joe Germuska"
+  404  cat Delta_SkyMiles | grep "Joe Germuska" 
+  405  cat Museum_of_Bash_History | grep "Joe Germuska" 
+  406  cat library.txt | grep "Joe Germuska
+  407  cat library.txt | grep "Joe Germuska"
+  408  cat library.txt | grep "Jeremy Bowers"
+  409  cat Museum_of_Bash_History | grep "Jeremy Bowers"
+  410  cat Delta_SkyMiles | grep "Jeremy Bowers"
+  411  cat AAA | grep "Jeremy Bowers"
+  412  cd ..
+  413  echo "Aron Pilhofer is not on AAA list. Joe Germuska is not on Museum of Bash History or Delta SkyMiles lists. Jeremy Bowers is on all 4 lists. Matches description. JEREMY BOWERS IS FINAL SUSPECT." >> solution2.txt
+  414  ls -la
+  415  cat solution2.txt
